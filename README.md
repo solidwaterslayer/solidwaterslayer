@@ -4,16 +4,6 @@
 > 
 > # Salutations!!!!!!!!!!!!!!!!!!!! :heart: :heart: :heart: :heart: :heart:
 > 
-> Email:
-> 
-> solidwater969@gmail.com
-> 
-> mnt43@drexel.edu
-> 
-> LinkedIn
-> 
-> https://www.linkedin.com/in/michael-tran-012345679/
->
 > Here is an overview of all my stuff.
 > 
 > [3th] Diamond Collecting Game: This is a project where I learn about graphics and things like shadows, light, textures, and animation.
@@ -39,27 +29,16 @@
 
 > ---
 >
-> # Usage :hugs:
-> 
-> Here is a running instance of the project:
+> # Contact :sleepy:
 >
-> https://solidwaterslayer.github.io/diamond-collecting-game/
+> Email:
 >
-> The first 5 seconds will be laggy because of graphics initializing and coupling, textures, and engine stress.
+> solidwater969@gmail.com
 >
-> ---
-
-<br>
-<br>
-
-> ---
+> mnt43@drexel.edu
 >
-> # Run Your Own Instance :sleepy:
+> LinkedIn:
 >
-> 1. To start a server, we're going to use python. You may use any other method. Download python: https://www.python.org/downloads/
-> 2. Download or git clone the project :smile:
-> 3. Navigate to the project root directory in command line, and then,
-> 4. Type this and hit enter: ```python -m http.server```
-> 5. Open your browser and go to http://localhost:8000/
+> https://www.linkedin.com/in/michael-tran-012345679/
 >
 > ---
