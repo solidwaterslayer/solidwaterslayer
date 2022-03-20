@@ -8,7 +8,7 @@
 > 
 > * ```[3th] Diamond Collecting Game```: This is a project where I learn about **graphics** and things like **shadows**, **light**, **textures**, and **animation**.
 > 
-> * ```[2nd] Paper Pushing Game```: This is a project where I learn about **TDD**. This project has a backend with **100% mutation coverage** OwO I gave it a frontend for viewing purposes. :innocent:
+> * ```[2nd] Paper Pushing Game```: This is a project where I learn about **TDD**. This project has a backend with **100% mutation coverage** OwO :innocent:
 > 
 > * ```[1st] Virtual Pet```: This is a project where I learn about **Angular** :kissing_heart: and limit test the capabilities of **CSS**, like animation. :wink:
 > 
