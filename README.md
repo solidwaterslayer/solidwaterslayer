@@ -13,6 +13,8 @@
 > * ```[1st] Virtual Pet```: This is a project where I learn about **Angular** :kissing_heart: and limit test the capabilities of **CSS**, like animation. :wink:
 > 
 > * ```[0th] Ball Game```: This is a project where I learn about **OOP** concepts like **abstraction** and **low coupling** and stuff.
+> 
+> :ring:
 >
 > Here is an overview of all my private projects because they have no frontend. :open_mouth:
 > 
@@ -20,6 +22,7 @@
 > * ```Computational Photography```: I did **image morphing** and a **seam carving**. There is really no easy way to explain what this is. Use Google.com
 > * ```Socket Programming```: I made an **FTP server** with 10 commands and a **FTP client** to use the **FTP server**.
 > * ```More TDD```: I did some stuff with **property tests**, **mock tests**, **benchmarks**, and **UI tests**. :joy:
+> * :gem:
 > * And more miscellaneous stuff, like a script that deletes all the videos in my youtube watch later list because for some reason youtube removed the ability to mass delete this as of March 19, 2022. :innocent:
 >
 > ---
