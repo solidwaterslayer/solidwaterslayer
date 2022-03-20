@@ -4,7 +4,7 @@
 > 
 > # Salutations!!!!!!!!!!!!!!!!!!!! :heart: :heart: :heart: :heart: :heart:
 > 
-> Here is an overview of all my stuff.
+    Here is an overview of all my stuff.
 > 
 > * ```[3th] Diamond Collecting Game```: This is a project where I learn about **graphics** and things like **shadows**, **light**, **textures**, and **animation**.
 > 
@@ -14,9 +14,7 @@
 > 
 > * ```[0th] Ball Game```: This is a project where I learn about **OOP** concepts like **abstraction** and **low coupling** and stuff.
 >
->
->
-> Here is an overview of all my private projects because they have no frontend. :open_mouth:
+    Here is an overview of all my private projects because they have no frontend. :open_mouth:
 > 
 > * ```Machine Learning```: I did something with **regression**, something with **classification**, and something with **clustering**. I also made a car detector, a 2x2 cube solver using **A***, and a 2D procedure world generator.
 > * ```Computational Photography```: I did **image morphing** and a **seam carving**. There is really no easy way to explain what this is. Use Google.com
