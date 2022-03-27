@@ -4,7 +4,7 @@
 > 
 > # Salutations!!!!!!!!!!!!!!!!!!!! :heart: :heart: :heart: :heart: :heart:
 > 
-> Here is an overview of all my stuff.
+> Here is an overview of all my stuff. All projects contain a link to a running instance in its readme :smile:
 > 
 > * ```[3th] Diamond Collecting Game```: This :gem: is a project where I learn about **graphics** and things like **shadows**, **light**, **textures**, and **animation**.
 > 
