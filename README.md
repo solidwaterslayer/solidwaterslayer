@@ -5,15 +5,17 @@
 > # Salutations!!!!!!!!!!!!!!!!!!!! :heart: :heart: :heart: :heart: :heart:
 > 
 > Here is an overview of all my stuff. All projects contain a link to a running instance in its readme :smile:
+>
+> * ```[4th] Random Facts About Mee Website [2022]```: I started this project to learn about **UX|UI**, **javascript animations**, and **react**.
+>
+> * ```[3th] Diamond Collecting Game [2021]```: I started this project :gem: to learn about **graphics**, **shadows**, **lighting**, **textures**, and **animation**.
 > 
-> * ```[3th] Diamond Collecting Game```: This :gem: is a project where I learn about **graphics** and things like **shadows**, **light**, **textures**, and **animation**.
+> * ```[2nd] Paper Pushing Game [2020]```: I started this :newspaper: project to learn about **test-driven development**. This project has a backend with **100% mutation coverage** OwO :innocent:
 > 
-> * ```[2nd] Paper Pushing Game```: This is a :newspaper: project where I learn about **TDD**. This project has a backend with **100% mutation coverage** OwO :innocent:
+> * ```[1st] Virtual Pet [2020]``` :smile_cat:: I started this project to learn about **angular** and **css** :kissing_heart: :wink:
 > 
-> * ```[1st] Virtual Pet``` :smile_cat:: This is a project where I learn about **Angular** :kissing_heart: and limit test the capabilities of **CSS**, like animation. :wink:
-> 
-> * ```[0th] Ball Game```: This is a project where I learn :basketball: about **OOP** concepts like **abstraction** and **low coupling** and stuff.
-> 
+> * ```[0th] Ball Game [2019]```: I started this project to learn about **python** and **object-oriented programming** :basketball:
+>
 > :ring:
 >
 > Here is an overview of all my private technical projects which don't have a frontend :open_mouth:
@@ -23,7 +25,7 @@
 > * ```Socket Programming``` :musical_keyboard:: I made an **FTP server** with 10 commands and a **FTP client** to use the **FTP server**.
 > * ```More TDD```: I did some stuff with **property tests**, :wine_glass: **mock tests**, **benchmarks**, and **UI tests**. :joy:
 > * :gem:
-> * And more miscellaneous stuff, like a script that deletes all the videos in my youtube watch later list because for some reason youtube removed the ability to mass delete this as of March 19, 2022. :innocent:
+> * And more miscellaneous stuff.
 >
 > ---
 
@@ -36,9 +38,7 @@
 >
 > Email:
 >
-> solidwater969@gmail.com
->
-> mnt43@drexel.edu :innocent:
+> solidwater969@gmail.com :innocent:
 >
 > LinkedIn:
 >
