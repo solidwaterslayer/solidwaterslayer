@@ -4,7 +4,7 @@
 > 
 > # Salutations!!!!!!!!!!!!!!!!!!!! :heart: :heart: :heart: :heart: :heart:
 > 
-> Here is an overview of all my stuff. All projects contain a link to a running instance in its readme :smile:
+> Here is an overview of all my personal projects. All projects contain a link to a running instance in its readme :smile:
 >
 > * ```[4th] Random Facts About Mee Website [2022]```: I started this project to learn about **UX|UI**, **javascript animations**, and **react**.
 >
