@@ -6,8 +6,6 @@
 > 
 > Here is an overview of all my personal projects. All projects contain a link to a running instance in its readme :smile:
 >
-> * ```[5th] Vid Search [2022]```: I started this project to learn about **vue**.
->
 > * ```[4th] Random Facts About Mee Website [2022]```: I started this project to learn about **UX|UI**, **javascript animations**, and **react**.
 >
 > * ```[3th] Diamond Collecting Game [2021]```: I started this project :gem: to learn about **graphics**, **shadows**, **lighting**, **textures**, and **animation**.
